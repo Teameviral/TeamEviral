@@ -1,6 +1,6 @@
 ### Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm a ECE student passionate about coding and learning new things. Currently increasing my knowledge by learning more languages while working on some small projects & contributing to open source community. 
+I'm an ECE student of HETC passionate about coding and learning new things. Currently increasing my knowledge by learning more languages while working on some small projects & contributing to open source community. 
 ## Programming Languages:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xditya&label=Views&color=blue&style=plastic" alt="xditya" /> </p>
 
