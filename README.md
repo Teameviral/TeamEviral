@@ -26,8 +26,8 @@ I'm an ECE student of HETC passionate about coding and learning new things. Curr
 
 # MY STATUS.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=starkgang&show_icons=true&theme=midnight-purple)
-- ![Profile views](https://gpvc.arturio.dev/TeamEviral
+![Github stats](https://github-readme-stats.vercel.app/api?username=TeamEviral&show_icons=true&theme=midnight-purple)
+![Profile views](https://gpvc.arturio.dev/TeamEviral)
 
 # MOST USED LANGUAGE
 
