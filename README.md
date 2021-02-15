@@ -1,3 +1,5 @@
+<img src="https://telegra.ph/file/aa4270741da2273a5c53b.jpg" alt="Profile Pic">
+
 ### Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 I'm an ECE student of HETC passionate about coding and learning new things. Currently increasing my knowledge by learning more languages while working on some small projects & contributing to open source community.
@@ -27,6 +29,7 @@ I'm an ECE student of HETC passionate about coding and learning new things. Curr
 # MY STATUS.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TeamEviral&show_icons=true&theme=midnight-purple)
+
 ![Profile views](https://gpvc.arturio.dev/TeamEviral)
 
 # MOST USED LANGUAGE
