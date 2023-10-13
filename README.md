@@ -21,7 +21,7 @@ In addition to his academic pursuits, Avishek is an accomplished writer and auth
 
 - 🔭 I’m currently studying.
 - 👬 I’m looking to collaborate on Project.
-- 👀 I’m looking for help with Open Source.
+- 👀 I’m looking for new opportunities.
 - 💬 Ask me about anything, always ready to help.
 
 
@@ -31,8 +31,6 @@ In addition to his academic pursuits, Avishek is an accomplished writer and auth
 # MY STATUS.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TeamEviral&show_icons=true&theme=midnight-purple)
-
-![Profile views](https://gpvc.arturio.dev/TeamEviral)
 
 # MOST USED LANGUAGE
 
